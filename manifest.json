@@ -1,0 +1,15 @@
+{
+  "name": "Счётчик сигарет",
+  "short_name": "Сигареты",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#6a11cb",
+  "theme_color": "#6a11cb",
+  "icons": [
+    {
+      "src": "https://em-content.zobj.net/thumbs/240/apple/354/cigarette_1f6ac.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    }
+  ]
+}
